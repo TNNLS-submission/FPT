@@ -2,7 +2,7 @@
 
 This is the implementation of the papers:
 
-> Anonymous, "Boosting Memory Efficiency in Transfer Learning for High-Resolution Medical Image Classification", under review, 2025. [[arXiv](https://arxiv.org/abs/2408.02426)]
+> Anonymous, "Boosting Memory Efficiency in Transfer Learning for High-Resolution Medical Image Classification", under review, 2025.
 
 We present FPT+ for medical image classification. FPT+ is a parameter-efficient transfer learning (PETL) method that significantly improve memory efficiency over existing PETL methods, especially in the high-resolution context commonly encountered in medical image analysis.
 
